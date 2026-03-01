@@ -1,0 +1,5 @@
+Projeto de Gerenciamento de Configuração
+Aluno: Bruno Alves Lopes
+Data: 01/03/2026
+
+Mudança realizada para atividade prática.
